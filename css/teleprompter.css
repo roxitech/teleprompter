@@ -33,7 +33,8 @@ a {
 }
 
 #container {
-    padding-bottom: 30px;
+   
+	bottom: 10px;
 }
 
 h2 {
