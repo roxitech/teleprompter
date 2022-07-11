@@ -1,4 +1,6 @@
 body {
+	height: 100%;
+  width: 100%;
 	font-family: Verdana, Geneva, sans-serif;
     text-align: center;
     letter-spacing: 2px;
